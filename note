@@ -1,1 +1,5 @@
 How about buy street cats a fish can ?
+
+cat beagle_x15_ec20_ec21.tar.bz2_* > beagle_x15_ec20_ec21.tar.bz2
+#check md5
+tar jxvf beagle_x15_ec20_ec21.tar.bz2 -C ~/
